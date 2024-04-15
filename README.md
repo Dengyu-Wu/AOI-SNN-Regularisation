@@ -11,9 +11,9 @@ The Spatial Temperal Regulariser (STR) improves SNN relaibity at each timestep.
 For more details, please refer to the <a href="https://arxiv.org/abs/2301.09522">preprint</a>.
 
 ```
-@article{wu2023optimising,
+@article{wu2023direct,
   title={Direct Training Needs Regularisation: Anytime Optimal Inference Spiking Neural Network},
-  author={Wu, Dengyu and Cai, Kaiwen and Jin, Gaojie and Yi, Xinping and Huang, Xiaowei},
+  author={Wu, Dengyu and Qi, Yi and Cai, Kaiwen and Jin, Gaojie and Yi, Xinping and Huang, Xiaowei},
   journal={arXiv preprint arXiv:},
   year={2024}
 }
