@@ -1,6 +1,6 @@
 # Direct Training Needs Regularisation: Anytime Optimal Inference Spiking Neural Network
 
-The implementation will be aslo available in (SNNCutoff)[https://github.com/Dengyu-Wu/snncutoff] soon.
+The implementation will be aslo available in [SNNCutoff](https://github.com/Dengyu-Wu/snncutoff) soon.
 
 <p align="center">
 <img src="./docs/results.png" width="800">
